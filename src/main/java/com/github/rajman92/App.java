@@ -11,9 +11,6 @@ import org.eclipse.jetty.util.component.AbstractLifeCycle;
 import org.eclipse.jetty.util.component.LifeCycle;
 import org.eclipse.jetty.webapp.*;
 
-//import java.util.HashMap;
-
-
 // TODO: fix this
 // FIXME: plz
 public class App {
